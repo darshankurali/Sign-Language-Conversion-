@@ -59,7 +59,7 @@ This project bridges communication gaps by translating sign language gestures in
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sign-language-translation.git
+   git clone https://github.com/darshankurali/sign-language-translation.git
    cd sign-language-translation
    ```
 
